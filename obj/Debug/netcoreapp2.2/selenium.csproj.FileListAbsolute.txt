@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/selenium/bin/Debug/netcoreapp2.2/selenium.deps.json
+/Users/cliff/Desktop/selenium/bin/Debug/netcoreapp2.2/selenium.runtimeconfig.json
+/Users/cliff/Desktop/selenium/bin/Debug/netcoreapp2.2/selenium.runtimeconfig.dev.json
+/Users/cliff/Desktop/selenium/bin/Debug/netcoreapp2.2/selenium.dll
+/Users/cliff/Desktop/selenium/bin/Debug/netcoreapp2.2/selenium.pdb
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.csprojAssemblyReference.cache
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.AssemblyInfo.cs
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.dll
+/Users/cliff/Desktop/selenium/obj/Debug/netcoreapp2.2/selenium.pdb
